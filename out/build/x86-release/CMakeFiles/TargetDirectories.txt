@@ -1,0 +1,3 @@
+C:/Users/stony/Desktop/Tensor/out/build/x86-release/CMakeFiles/Tensor.dir
+C:/Users/stony/Desktop/Tensor/out/build/x86-release/CMakeFiles/edit_cache.dir
+C:/Users/stony/Desktop/Tensor/out/build/x86-release/CMakeFiles/rebuild_cache.dir
